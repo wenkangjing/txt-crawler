@@ -1,4 +1,4 @@
-A crawler of programmerinterview.com based
+A crawler of programmerinterview.com
 - [node-crawler](https://github.com/bda-research/node-crawler) based
 - `npm install`
 - `npm start`
